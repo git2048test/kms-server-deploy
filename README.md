@@ -11,7 +11,7 @@
 ## 在你的服务器上，执行如下命令即可：
 
 ```shell
-wget --no-check-certificate https://raw.githubusercontent.com/Mr-xn/kms-server-deploy/master/kms-server-deploy.sh && bash kms-server-deploy.sh
+wget --no-check-certificate https://raw.githubusercontent.com/git2048test/kms-server-deploy/master/kms-server-deploy.sh && bash kms-server-deploy.sh
 ```
 
 ## 不会的,请看下面的我的截图操作就知道了
@@ -30,7 +30,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/Mr-xn/kms-server-d
 
 ## Windows上激活
 
-### 下载(右键另存为---然后解压即可使用) [mrxn_net_kms.zip](https://raw.githubusercontent.com/Mr-xn/kms-server-deploy/master/mrxn_net_kms.zip)
+### 下载(右键另存为---然后解压即可使用) [mrxn_net_kms.zip](https://raw.githubusercontent.com/git2048test/kms-server-deploy/master/mrxn_net_kms.zip)
 
 ### 下载后右键-以管理员身份运行
 ![uac_run.png](./image/uac_run.png)
